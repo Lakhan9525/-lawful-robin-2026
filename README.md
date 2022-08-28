@@ -23,6 +23,7 @@ Some Snapshot
 =================
 
 Landing Page
+<img src="https://github.com/ajcodeskills/Mentimeter_Clone/raw/main/Project/home_img/mentimeter-home.PNG?raw=true" alt="Mentimeter" style="max-width: 100%;">
 
 Mentimeter
 
