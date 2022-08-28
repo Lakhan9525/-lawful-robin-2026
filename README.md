@@ -26,6 +26,7 @@ Landing Page
 <img src="https://github.com/ajcodeskills/Mentimeter_Clone/raw/main/Project/home_img/mentimeter-home.PNG?raw=true" alt="Mentimeter" style="max-width: 100%;">
 
 Mentimeter
+<img src="https://github.com/ajcodeskills/Mentimeter_Clone/raw/main/Project/home_img/mentimeter-blog.PNG?raw=true" alt="Mentimeter" style="max-width: 100%;">
 
 Blog Page
 
