@@ -9,6 +9,7 @@ This is my first project at Masai School after learning the JavaScript and HTML,
 
 Netlify : https://eloquent-shaw-3ecec1.netlify.app
 
+
 How to run the project 📑
 In this project we were able to achieve a near to perfect clone of the original website. As we do not want to overwhelm you, we haven't shared all the pages here.Please fork the repository and then use it on your own.
 
