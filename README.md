@@ -24,14 +24,21 @@ Some Snapshot
 =================
 
 Landing Page
-<img src="https://github.com/ajcodeskills/Mentimeter_Clone/raw/main/Project/home_img/mentimeter-home.PNG?raw=true" alt="Mentimeter" style="max-width: 100%;">
+
+![Screenshot (108)](https://user-images.githubusercontent.com/102020617/224294028-58dc3671-c2ab-4261-8d30-0f07737d0b3c.png)
+
+
 
 Mentimeter
 <img src="https://github.com/ajcodeskills/Mentimeter_Clone/raw/main/Project/home_img/mentimeter-blog.PNG?raw=true" alt="Mentimeter" style="max-width: 100%;">
 
 Blog Page
+![Screenshot (109)](https://user-images.githubusercontent.com/102020617/224294151-fcdf3324-4a3f-4cf6-97e9-b190d3237bbf.png)
 
-Mentimeter
+
+Price Page
+![Screenshot (112)](https://user-images.githubusercontent.com/102020617/224294213-260d4e42-113f-4eda-bc9e-cf31f18087aa.png)
+
 
 The Pages We Covered.
 The pages can be seprately viewd from the above directory:
